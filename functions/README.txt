@@ -1,0 +1,1 @@
+Place TypeScript functions in this folder.

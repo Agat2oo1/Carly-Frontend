@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="430px" height="180px" viewBox="0 0 43 18" version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group">
+    <path
+      d="M0 9.00002C0 6.23859 2.23858 4.00002 5 4.00002C6.38071 4.00002 7.63071 4.55966 8.53553 5.46448L7.12132 6.8787C6.57843 6.3358 5.82843 6.00002 5 6.00002C3.34315 6.00002 2 7.34316 2 9.00002C2 10.6569 3.34315 12 5 12C5.82843 12 6.57843 11.6642 7.12132 11.1213L8.53553 12.5355C7.63071 13.4404 6.38071 14 5 14C2.23858 14 0 11.7614 0 9.00002Z"
+      id="Ellipse-Difference" fill="#4D7AFF" fill-rule="evenodd" stroke="none" />
+    <path
+      d="M10 9C10 6.23858 12.2386 4 15 4C17.7614 4 20 6.23858 20 9L20 14L18 14L18 13.0004C17.1643 13.6281 16.1256 14 15 14C12.2386 14 10 11.7614 10 9ZM18 9L18 9L18 9.00969C17.9948 10.6621 16.6536 12 15 12C13.3432 12 12 10.6569 12 9.00002C12 7.34316 13.3432 6.00002 15 6.00002C16.6569 6.00002 18 7.34315 18 9Z"
+      id="Ellipse-Difference-2-Union" fill="#4D7AFF" fill-rule="evenodd" stroke="none" />
+    <path
+      d="M24 9.00969L24 14L22 14L22 9C22 6.23858 24.2386 4 27 4L27 6.00002L27 6.00002C25.3431 6.00002 24 7.34315 24 9L24 9L24 9.00969Z"
+      id="Ellipse-Difference-3-Union-Difference" fill="#4D7AFF" fill-rule="evenodd" stroke="none" />
+    <path
+      d="M41 12.9903L41 8L43 8L43 13C43 15.7614 40.7614 18 38 18L38 16L38 16C39.6569 16 41 14.6568 41 13L41 13L41 12.9903Z"
+      id="Ellipse-Difference-3-Union-Difference-3" fill="#4D7AFF" fill-rule="evenodd" stroke="none" />
+    <path
+      d="M38 14C40.7614 14 43 11.7614 43 9L43 4L41 4L41 9L41 9C41 10.6568 39.6568 12 38 12C36.3431 12 35 10.6568 35 9L35 9L35 4L33 4L33 9C33 11.7614 35.2386 14 38 14Z"
+      id="Ellipse-Difference-3-Union-Difference-2" fill="#4D7AFF" fill-rule="evenodd" stroke="none" />
+    <path d="M29 0L31 0L31 14L29 14L29 0Z" id="Rectangle" fill="#4D7AFF" fill-rule="evenodd"
+      stroke="none" />
+  </g>
+</svg>

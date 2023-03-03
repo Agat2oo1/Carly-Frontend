@@ -1,0 +1,36 @@
+{
+  "name": "carly-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/lab": "^5.0.0-alpha.117",
+    "@mui/material": "^5.11.3",
+    "@mui/x-data-grid": "^5.17.20",
+    "@mui/x-data-grid-pro": "^5.17.20",
+    "@next/font": "13.1.1",
+    "@types/base-64": "^1.0.0",
+    "@types/node": "^18.11.18",
+    "@types/react": "18.0.26",
+    "@types/react-dom": "18.0.10",
+    "base-64": "^1.0.0",
+    "eslint": "8.30.0",
+    "eslint-config-next": "13.1.1",
+    "material-ui-community-icons": "^0.15.0",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "recoil": "^0.7.6",
+    "recoil-persist": "^4.2.0",
+    "typescript": "4.9.4"
+  }
+}
