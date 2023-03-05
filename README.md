@@ -1,3 +1,5 @@
+!!! For the moment, the database is off because as students we have a limited budget for Azure. !!!
+
 Instead of Create React App, we are using Next.JS. There are some differences from the vanilla React.
 
 ## First time
